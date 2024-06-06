@@ -1,3 +1,7 @@
+It is amazon clone which has list of few static products, one can add in cart and do checkout
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
